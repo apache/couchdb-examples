@@ -21,6 +21,7 @@ Next, install *rebar* from <https://github.com/rebar/rebar>. Rebar is a build to
 
 ## Quick Start
 
+    git clone https://git-wip-us.apache.org/repos/asf/couchdb-examples.git
 
 `my_first_couchdb_plugin` includes two directories `src` and `test` with an `.erl` file in them each. `src/my_first_couchdb_plugin.erl` is where our module code will live and `test/my_first_couchdb_plugin_tests.erl` will contain any tests for that code.
 
